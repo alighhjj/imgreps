@@ -1,3 +1,2 @@
 # imgreps
-**update**
-new release.
+**图床仓库**
